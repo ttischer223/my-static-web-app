@@ -22,6 +22,12 @@ const data = {
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
     },
+    {
+      id: 40,
+      name: 'Monster Energy',
+      description: 'Code through the night',
+      quantity: 1,
+    },
   ],
 };
 export default {

@@ -19,6 +19,7 @@ export default {
     <div class="content">
       <div class="name">{{ name }}</div>
       <div class="description">{{ description }}</div>
+      <button>Add to basket</button>
     </div>
   </div>
 </template>
